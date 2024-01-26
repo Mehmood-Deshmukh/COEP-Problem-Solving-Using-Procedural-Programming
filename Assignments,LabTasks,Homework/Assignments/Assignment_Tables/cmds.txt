@@ -1,0 +1,10 @@
+print
+marks WAGH ISHA MANOJ dsa
+highest dsa
+avg pspp
+sgpa 612203186 7
+update 612203186 marks1 95
+stdev dsa
+top 3 2021
+exit
+
